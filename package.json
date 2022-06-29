@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@keyv/sqlite": "^3.5.2",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.8.1",
+    "fs": "^0.0.1-security",
+    "keyv": "^4.3.2",
+    "minimist": "^1.2.6",
+    "nodemon": "^2.0.18"
+  }
+}
