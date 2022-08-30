@@ -1,0 +1,55 @@
+[2022-03-31T15:29:38.628] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:30:36.331] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:31:27.227] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:31:29.947] [WARN] default - l o g 4 j s : l o g g e r . l o g :   i n v a l i d   v a l u e   f o r   l o g - l e v e l   a s   f i r s t   p a r a m e t e r   g i v e n :  
+[2022-03-31T15:31:29.948] [INFO] default - 
+[2022-03-31T15:31:53.906] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:32:31.385] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:32:33.816] [INFO] default - test
+[2022-03-31T15:41:56.359] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:42:03.261] [INFO] default - !math
+[2022-03-31T15:42:41.887] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:42:44.354] [INFO] default - !math
+[2022-03-31T15:42:44.591] [INFO] default - Command is not right!
+[2022-03-31T15:42:52.118] [INFO] default - !math 1+1
+[2022-03-31T15:43:16.691] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:43:18.195] [INFO] default - !math 1+1
+[2022-03-31T15:44:20.292] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:44:30.651] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:44:33.783] [INFO] default - !math 1+1
+[2022-03-31T15:44:51.114] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:44:54.053] [INFO] default - !math 1+1
+[2022-03-31T15:44:54.338] [INFO] default - 2
+[2022-03-31T15:44:59.235] [INFO] default - !math 1^2
+[2022-03-31T15:44:59.495] [INFO] default - 3
+[2022-03-31T15:47:21.070] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:47:24.385] [INFO] default - !math 2**3
+[2022-03-31T15:47:24.694] [INFO] default - 8
+[2022-03-31T15:47:36.848] [INFO] default - !math 2**3**2
+[2022-03-31T15:47:37.135] [INFO] default - 512
+[2022-03-31T15:49:39.457] [INFO] default - !math 4/2
+[2022-03-31T15:49:39.767] [INFO] default - 2
+[2022-03-31T15:49:42.590] [INFO] default - !math 0/0
+[2022-03-31T15:49:42.836] [INFO] default - NaN
+[2022-03-31T15:50:26.731] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:50:28.583] [INFO] default - !math 0/0
+[2022-03-31T15:50:28.832] [INFO] default - NaN
+[2022-03-31T15:50:38.888] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:50:41.173] [INFO] default - !math 0/0
+[2022-03-31T15:50:41.414] [INFO] default - NaN
+[2022-03-31T15:50:57.531] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:50:59.831] [INFO] default - !math 0/0
+[2022-03-31T15:51:00.218] [INFO] default - Error
+[2022-03-31T15:51:10.462] [INFO] default - !math 2*****4
+[2022-03-31T15:51:10.758] [INFO] default - Error
+[2022-03-31T15:51:21.220] [INFO] default - !math 2***3
+[2022-03-31T15:51:21.483] [INFO] default - Error
+[2022-03-31T15:52:01.078] [INFO] default - 計画通り#9642 is enabled!
+[2022-03-31T15:52:06.121] [INFO] default - !math 0/0
+[2022-03-31T15:52:06.389] [INFO] default - Error
+[2022-03-31T15:52:13.027] [INFO] default - !math 2*************3
+[2022-03-31T15:52:13.266] [INFO] default - Error
+[2022-03-31T15:52:20.250] [INFO] default - !math 2-3
+[2022-03-31T15:52:20.485] [INFO] default - -1
+[2022-03-31T15:52:30.914] [INFO] default - !math 200/3
+[2022-03-31T15:52:31.186] [INFO] default - 66.66666666666667
